@@ -6,6 +6,7 @@ import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 public class TestCar {
 
     Car car;
+    Car car2;
 
     @BeforeEach
     public void setUp() {

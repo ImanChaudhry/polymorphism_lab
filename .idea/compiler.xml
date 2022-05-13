@@ -9,5 +9,8 @@
         <module name="polymorphism_lab" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="polymorphism_lab" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
